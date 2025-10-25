@@ -77,8 +77,8 @@ To enable microstepping on the A4988 via the CNC Shield, place jumper caps under
 
 ## 👨‍💻 Author
 
-Developed by [**Sunanda Dutta**](https://github.com/duttasunanda)
-🎓 Diploma in CST | 💡 IoT & Robotics Enthusiast | 💻 Arduino & Web Developer
+Developed by [**Souham Dutta**](https://github.com/SOUHAM23)
+🎓 Diploma in CST | 💡 IoT & Robotics Enthusiast | 💻 Arduino & Prototype Developer
 
 ---
 
